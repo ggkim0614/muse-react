@@ -4,7 +4,7 @@
 <br/>
 <br /> 
 
-<img src="https://user-images.githubusercontent.com/124162355/236394363-73e1e200-3fe6-4e1b-b7f0-a7f54dc42fbc.png" width="830px" alt="cover-chill play"></img>
+<img src="https://user-images.githubusercontent.com/124162355/236394363-73e1e200-3fe6-4e1b-b7f0-a7f54dc42fbc.png" width="800px" alt="cover-chill play"></img>
 
 ## Chill & Play 멤버
 #### FrontEnd
@@ -104,9 +104,7 @@
   ```
 - 모든 프롬트 및 결과는 상수 데이터를 이용하여 서버와의 응답과는 무관하도록 구현되었습니다.
 
-<img src="https://user-images.githubusercontent.com/37966668/235456273-509fc6c2-a414-4222-897f-de0f47e79fab.png" width="600px" alt="챗봇"></img>  
-<img src="https://user-images.githubusercontent.com/37966668/235456293-d038c596-ec52-44e7-a1b4-be9d8230af51.png" width="600px" alt="챗봇"></img>  
-<img src="https://user-images.githubusercontent.com/37966668/235456312-697f8d51-4725-4c72-8833-2ba83b30e45a.png" width="600px" alt="챗봇"></img>
+ ![chatbot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNmZTY4NzZlNDg5NzdjZjQ4ZjlhODYyNTFkOTk2M2JkZDU2YmZjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YbBoVv8aqJBiijrsd4/giphy.gif) 
 
 <br/>
 
