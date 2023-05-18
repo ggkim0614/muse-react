@@ -11,7 +11,7 @@
 
 - <a href="https://github.com/Hyomins-013">신효민<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
 - <a href="https://github.com/pajiyeee">박지연<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
-- <a href="https://github.com/ggkim0614">김정환<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a>
+- <a href="https://github.com/ggkim0614">김정환<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hongyeollee"/></a> - <strong>예매 플로우, 챗봇 기능</strong>
 
 
 #### BackEnd
