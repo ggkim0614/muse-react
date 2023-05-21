@@ -133,6 +133,9 @@
 <br/>
 
 ### ❻ 예매 ###
+
+<img src="https://user-images.githubusercontent.com/124162355/236429594-c1ae6bdd-5da3-4951-8cee-3496b6d238d6.gif" width="600px" alt="예매"></img>
+
 - Flow
   티켓 예매 페이지는 아래와 같은 플로우를 따릅니다.
   ```text
@@ -159,10 +162,6 @@
 #### 주문 과정을 보여주는 스테이터스 바 예매창 하단에 구현
 - 주문 과정 중 선택된 조건들을 전역에서 읽을 수 있는 스토어에 저장해, 선택될 때마다 스테이터스 바에 출력됩니다.
 - 뮤지컬, 상영관, 날짜, 상영 시간 선택마다 쿼리 스트링을 사용하여 엔드포인트에 값을 반영하여 원하는 조건을 구매페이지에 보내어지도록 구현했습니다.
-
-<img src="https://user-images.githubusercontent.com/37966668/234263653-ca36b23f-7b90-4c53-970d-d24677072e2d.png" width="600px" alt="예매"></img>
-<img src="https://user-images.githubusercontent.com/37966668/234263966-fcaf1e21-001f-4308-92d3-37c5ef04955d.png" width="600px" alt="예매"></img>
-<img src="https://user-images.githubusercontent.com/37966668/234825595-e13c397e-d28a-44db-b339-fc1d9a73f00d.png" width="600px" alt="예매"></img>
 
 <br/>
 
