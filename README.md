@@ -134,7 +134,7 @@
 
 ### ❻ 예매 ###
 
-<img src="https://user-images.githubusercontent.com/124162355/236429594-c1ae6bdd-5da3-4951-8cee-3496b6d238d6.gif" width="600px" alt="예매"></img>
+<img src="https://user-images.githubusercontent.com/124162355/236441990-6bb15faf-cb02-4a4c-b690-6b074eaa440b.gif" width="600px" alt="예매"></img>
 
 - Flow
   티켓 예매 페이지는 아래와 같은 플로우를 따릅니다.
